@@ -1,0 +1,45 @@
+
+* {
+	margin: 0;
+}
+header{
+	background-image: url(../images/home1.jpg);
+	 background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+
+#menu{
+	position: fixed;
+	height: 15%;
+	background-color: black;
+	width: 100%;
+}
+
+#menu nav {
+text-align: center;
+}
+
+#menu nav li{
+	display: inline;
+	margin: 1%;
+	
+	
+}
+
+#menu nav li a{	
+	color: white;	
+	
+}
+
+.container{
+	 margin-top: 1.5%;
+	 /*margin: auto;*/
+}
+
+.welcome{
+	background-image: url('../images/home1.jpg');
+}
+
+
